@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>eZ Assetic</name>
+        <version>?</version>
+        <copyright>Copyright (C) 2013 Arnaud Lafon</copyright>
+        <license>MIT</license>
+        <info_url>https://github.com/alafon/ezassetic</info_url>
+
+        <software>
+            <uses>
+                <name>Assetic</name>
+                <copyright>Copyright (c) 2010-2013 OpenSky Project Inc</copyright>
+                <info_url>https://github.com/kriswallsmith/assetic</info_url>
+            </uses>
+            <uses>
+                <name>CSSMin</name>
+                <license>MIT License</license>
+                <info_url>https://code.google.com/p/cssmin/</info_url>
+                <version>3.0.1</version>
+            </uses>
+            <uses>
+                <name>Closure Compiler</name>
+                <info_url>https://developers.google.com/closure/compiler/</info_url>
+                <version>?</version>
+            </uses>
+        </software>
+
+    </metadata>
+</software>
